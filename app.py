@@ -1,1 +1,0 @@
-from movies_library import create_app
